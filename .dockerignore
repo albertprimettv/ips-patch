@@ -1,0 +1,16 @@
+.git
+.git/*
+.github
+
+target
+
+*.o
+*.a
+*.so
+*.so.*
+*.dylib
+
+*~
+*.swp
+*.swo
+.DS_Store
